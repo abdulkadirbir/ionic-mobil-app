@@ -38,9 +38,11 @@ Uygulamanın düzgün bir şekilde çalışabilmesi için Firebase'de google hes
 - Uygulamanın içerisinde "firebase.ts" dosyasında var olan config ayarlarıyla yer değiştirilir. Bu işlemleri başarılı bir şekilde yaptıktan sonra uygulamanın bu aşaması tamamlanmış olur.
 
 ## Ekran Görüntüleriyle Birlikte Açıklamalar
+1.Kullanıcı uygulamayı ilk çalıştırdığında karşısına bu şekilde çıkmaktadır.
+
 ![](screenshots/Screenshot_12.png)
 
-Kullanıcı uygulamayı ilk çalıştırdığında karşısına bu şekilde çıkmaktadır.
+
 
 
 # SONUÇ 
