@@ -39,6 +39,7 @@ Uygulamanın düzgün bir şekilde çalışabilmesi için Firebase'de google hes
 
 ## Ekran Görüntüleriyle Birlikte Açıklamalar
 ![](screenshots/Screenshot_12.png)
+
 Kullanıcı uygulamayı ilk çalıştırdığında karşısına bu şekilde çıkmaktadır.
 
 
