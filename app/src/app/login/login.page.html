@@ -1,0 +1,22 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-title>Login</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+  <ion-list>
+    <ion-item>
+      <ion-label position="floaating">E-mail:</ion-label>
+      <ion-input type="text" [(ngModel)]="kullanici"></ion-input>
+    </ion-item>
+
+    <ion-item>
+      <ion-label position="floaating">Parola:</ion-label>
+      <ion-input type="password" [(ngModel)]="parola"></ion-input>
+    </ion-item>
+  </ion-list>
+  <ion-button fill="solid" expand="block" color="dark" (click)="login()">Giriş</ion-button>
+  <ion-button fill="solid" expand="block" color="dark" (click)="kayit()">Kayıt Ol</ion-button>
+
+</ion-content>

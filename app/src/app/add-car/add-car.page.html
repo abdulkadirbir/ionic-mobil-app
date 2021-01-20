@@ -1,0 +1,40 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-title>Araç Ekleme İşlemleri</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+  <ion-list>
+    <ion-item>
+      <ion-label position="floaating">Marka:</ion-label>
+      <ion-input type="text" [(ngModel)]="marka"></ion-input>
+    </ion-item>
+
+    <ion-item>
+      <ion-label position="floaating">Model:</ion-label>
+      <ion-input type="text" [(ngModel)]="model"></ion-input>
+    </ion-item>
+
+    <ion-item>
+      <ion-label position="floaating">Yıl:</ion-label>
+      <ion-input type="text" [(ngModel)]="yil"></ion-input>
+    </ion-item>
+
+    <ion-item>
+      <ion-label position="floaating">Kilometre:</ion-label>
+      <ion-input type="text" [(ngModel)]="kilometre"></ion-input>
+    </ion-item>
+
+  </ion-list>
+  <ion-button fill="solid" expand="block" color="success" (click)="satilacak()">Satılacak</ion-button>
+  <ion-button fill="solid" expand="block" color="danger" (click)="kiralanacak()">Kiralanacak</ion-button>
+
+</ion-content>
+
+
+<ion-footer no-shadow>
+	<ion-toolbar position="bottom">
+		<ion-button  expand="block" shape="round" color="dark" (click)="anasayfayagit()">Anasayfa'ya Git</ion-button>
+	</ion-toolbar>
+</ion-footer>
