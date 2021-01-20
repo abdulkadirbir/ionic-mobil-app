@@ -15,7 +15,7 @@ Projede dikkat edilmesi gereken iki husus vardır:
 - İkincisi aynı şekilde listede arama yapma mimarisi oluşturulmuştur fakar aktif değildir.
 
 ## Kurulum Aşamaları 
-Projeyi bilgisayarınıza kurmak için öncelikle bilgisayarınıza [Git](https://git-scm.com/downloads) indirmelisiniz. Zaten halihazırda varsa bilgisayarınızın CMD' sini çalıştırınız. Yeni bir klasör açmak için `$mkdir ornekdosya` ve `$cd ornekdosya` komutunu kullanabilirsiniz. Bu komutlar işletim sisteminize göre farklılık gösterebilir. Yeni klasörünüze giriş yaptıktan sonra `$git clone https://github.com/abdulkadirbir/ionic-app.git` komutunu kullanabilirsiniz. Bu işlemlerden sonra proje bilgisayarınızda oluşturduğunuz yeni klasöre inmiş olacaktır.
+Projeyi bilgisayarınıza kurmak için öncelikle bilgisayarınıza [Git](https://git-scm.com/downloads) indirmelisiniz. Zaten halihazırda varsa bilgisayarınızın CMD' sini çalıştırınız. Yeni bir klasör açmak için `$mkdir ornekdosya` ve `$cd ornekdosya` komutunu kullanabilirsiniz. Bu komutlar işletim sisteminize göre farklılık gösterebilir. Yeni klasörünüze giriş yaptıktan sonra `$git clone https://github.com/abdulkadirbir/ionic-mobil-app.git` komutunu kullanabilirsiniz. Bu işlemlerden sonra proje bilgisayarınızda oluşturduğunuz yeni klasöre inmiş olacaktır.
 
 ## Gerekli Paketler
 Bu bölümde bilgisayarınızda kurulması gereken paketler belirtilmiştir :
