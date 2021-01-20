@@ -38,9 +38,29 @@ Uygulamanın düzgün bir şekilde çalışabilmesi için Firebase'de google hes
 - Uygulamanın içerisinde "firebase.ts" dosyasında var olan config ayarlarıyla yer değiştirilir. Bu işlemleri başarılı bir şekilde yaptıktan sonra uygulamanın bu aşaması tamamlanmış olur.
 
 ## Ekran Görüntüleriyle Birlikte Açıklamalar
-1.Kullanıcı uygulamayı ilk çalıştırdığında karşısına bu şekilde çıkmaktadır.
+1.Kullanıcı uygulamayı ilk çalıştırdığında karşısına bu şekilde çıkmaktadır. Kullanıcının hesabı varsa giriş yapabilir. Eğer hesabı yoksa "Kayıt Ol" butonuyla kayıt sayfasına geçebilir.
 
 ![](screenshots/Screenshot_12.png)
+
+2.Bu sayfadan kullanıcı firebasede bulunan hesap üzerine kayıt olabilir.
+
+![](screenshots/Screenshot_16.png)
+
+3.Başarılı bir şekilde giriş yapıldıktan sonra kullanıcıya bir alert gösterilmektedir. Daha sonra da "Anasayfa" açılmaktadır.Bu bölümde veritabanındaki satılık araçlar listelenebilir. Kiralık araçlar listelenebilir. Veya yeni bir araç eklenebilir.
+
+![](screenshots/Screenshot_15.png)
+
+4. Satılık araçların listesi.
+
+![](screenshots/Screenshot_13.png)
+
+5.Kiralık araçların listesi
+
+![](screenshots/Screenshot_14.png)
+
+6. Araç Ekleme Sayfası
+
+![](screenshots/Screenshot_15.png)
 
 
 
