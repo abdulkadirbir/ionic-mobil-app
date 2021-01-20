@@ -48,7 +48,7 @@ Uygulamanın düzgün bir şekilde çalışabilmesi için Firebase'de google hes
 
 3.Başarılı bir şekilde giriş yapıldıktan sonra kullanıcıya bir alert gösterilmektedir. Daha sonra da "Anasayfa" açılmaktadır.Bu bölümde veritabanındaki satılık araçlar listelenebilir. Kiralık araçlar listelenebilir. Veya yeni bir araç eklenebilir.
 
-![](screenshots/Screenshot_15.png)
+![](screenshots/Screenshots_14.png)
 
 4. Satılık araçların listesi.
 
@@ -62,7 +62,9 @@ Uygulamanın düzgün bir şekilde çalışabilmesi için Firebase'de google hes
 
 ![](screenshots/Screenshot_15.png)
 
+7. Firebase'de veritabanının görüntüsü
 
+![](screenshots/Screenshot_17.png)
 
 
 # SONUÇ 
